@@ -1,0 +1,10 @@
+LICENSE
+README.rst
+pymintriangle.cpp
+setup.py
+pymintriangle.egg-info/PKG-INFO
+pymintriangle.egg-info/SOURCES.txt
+pymintriangle.egg-info/dependency_links.txt
+pymintriangle.egg-info/not-zip-safe
+pymintriangle.egg-info/requires.txt
+pymintriangle.egg-info/top_level.txt

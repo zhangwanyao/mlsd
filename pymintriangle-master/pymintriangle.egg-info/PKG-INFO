@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: pymintriangle
+Version: 0.1.0
+Summary: A python wrapper for the C++ implementation ofa minimal area enclosing triangle algorithm
+License-File: LICENSE
+Requires-Dist: pybind11>=2.3

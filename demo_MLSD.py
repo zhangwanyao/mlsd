@@ -228,8 +228,10 @@ class model_graph:
 
 def init_worker(args):
     global model
-    
+    # logger.info("Initializing model...")
     model = model_graph(args)
+    print('Model loaded.')
+    # logger.info("Model initialized successfully")
 
    
 @app.route('/')
