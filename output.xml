@@ -1,0 +1,121 @@
+<root>
+    <Version Ver="1" />
+    <Translation Tx="0" Ty="0" Tz="0" />
+    <Rotate Rx="0" Ry="0" />
+    <RoomInfo Height="2000.000000" />
+    <WallInfo Num="72">
+        <LineData DirX="0.000000" DirY="-1.000000" EndX="-3908.000000" EndY="4998.000000" EndZ="0" StartX="4605.000000" StartY="4998.000000" StartZ="0" Thickness="501.000000" WallId="0" direction="U" />
+        <LineData DirX="1.000000" DirY="0.000000" EndX="2790.000000" EndY="-7370.000000" EndZ="0" StartX="2790.000000" StartY="-2889.000000" StartZ="0" Thickness="553.000000" WallId="1" direction="U" />
+        <LineData DirX="0.000000" DirY="-1.000000" EndX="3486.000000" EndY="2497.000000" EndZ="0" StartX="4605.000000" StartY="2497.000000" StartZ="0" Thickness="259.001923" WallId="2" direction="U" />
+        <LineData DirX="-1.000000" DirY="0.000000" EndX="5113.000000" EndY="4998.000000" EndZ="0" StartX="5113.000000" StartY="-2357.000000" StartZ="0" Thickness="507.000000" WallId="3" direction="U" />
+        <LineData DirX="-1.000000" DirY="0.000000" EndX="-7625.000000" EndY="-2357.000000" EndZ="0" StartX="-7625.000000" StartY="-5013.000000" StartZ="0" Thickness="171.000000" WallId="4" direction="U" />
+        <LineData DirX="0.000000" DirY="-1.000000" EndX="-3908.000000" EndY="2497.000000" EndZ="0" StartX="2790.000000" StartY="2497.000000" StartZ="0" Thickness="360.000000" WallId="5" direction="U" />
+        <LineData DirX="0.000000" DirY="-1.000000" EndX="-3908.000000" EndY="-7370.000000" EndZ="0" StartX="-1889.000000" StartY="-7370.000000" StartZ="0" Thickness="350.000000" WallId="6" direction="U" />
+        <LineData DirX="-1.000000" DirY="0.000000" EndX="-12697.000000" EndY="701.000000" EndZ="0" StartX="-12697.000000" StartY="-2029.000000" StartZ="0" Thickness="332.000000" WallId="7" direction="U" />
+        <LineData DirX="1.000000" DirY="0.000000" EndX="-8080.000000" EndY="187.000000" EndZ="0" StartX="-8080.000000" StartY="3765.000000" StartZ="0" Thickness="284.000000" WallId="8" direction="U" />
+        <LineData DirX="-1.000000" DirY="0.000000" EndX="3486.000000" EndY="-11303.000000" EndZ="0" StartX="3486.000000" StartY="-12521.000000" StartZ="0" Thickness="519.000000" WallId="9" direction="U" />
+        <LineData DirX="0.000000" DirY="1.000000" EndX="3486.000000" EndY="-13022.000000" EndZ="0" StartX="-1542.000000" StartY="-13022.000000" StartZ="0" Thickness="501.000000" WallId="10" direction="U" />
+        <LineData DirX="1.000000" DirY="0.000000" EndX="-13029.000000" EndY="-12141.000000" EndZ="0" StartX="-13029.000000" StartY="-7720.000000" StartZ="0" Thickness="518.000000" WallId="11" direction="U" />
+        <LineData DirX="1.000000" DirY="0.000000" EndX="2790.000000" EndY="-2357.000000" EndZ="0" StartX="2790.000000" StartY="2497.000000" StartZ="0" Thickness="696.000000" WallId="12" direction="U" />
+        <LineData DirX="0.000000" DirY="1.000000" EndX="-8080.000000" EndY="-7720.000000" EndZ="0" StartX="-13029.000000" StartY="-7720.000000" StartZ="0" Thickness="472.000000" WallId="13" direction="U" />
+        <LineData DirX="0.000000" DirY="-1.000000" EndX="-1602.000000" EndY="-7370.000000" EndZ="0" StartX="2967.000000" StartY="-7370.000000" StartZ="0" Thickness="726.000000" WallId="14" direction="U" />
+        <LineData DirX="0.000000" DirY="1.000000" EndX="2967.000000" EndY="-11303.000000" EndZ="0" StartX="-1542.000000" StartY="-11303.000000" StartZ="0" Thickness="246.000000" WallId="15" direction="U" />
+        <LineData DirX="0.000000" DirY="-1.000000" EndX="-10623.000000" EndY="-2029.000000" EndZ="0" StartX="-8080.000000" StartY="-2029.000000" StartZ="0" Thickness="328.000000" WallId="16" direction="U" />
+        <LineData DirX="0.000000" DirY="1.000000" EndX="-8318.000000" EndY="3765.000000" EndZ="0" StartX="-12697.000000" StartY="3765.000000" StartZ="0" Thickness="500.000000" WallId="17" direction="U" />
+        <LineData DirX="1.000000" DirY="0.000000" EndX="-1889.000000" EndY="-11057.000000" EndZ="0" StartX="-1889.000000" StartY="-7370.000000" StartZ="0" Thickness="287.000000" WallId="18" direction="U" />
+        <LineData DirX="-1.000000" DirY="0.000000" EndX="-4005.000000" EndY="2137.000000" EndZ="0" StartX="-4005.000000" StartY="187.000000" StartZ="0" Thickness="262.000000" WallId="19" direction="U" />
+        <LineData DirX="0.000000" DirY="1.000000" EndX="-9007.000000" EndY="-12609.000000" EndZ="0" StartX="-9320.000000" StartY="-12609.000000" StartZ="0" Thickness="468.000000" WallId="20" direction="U" />
+        <LineData DirX="1.000000" DirY="0.000000" EndX="-16157.000000" EndY="1168.000000" EndZ="0" StartX="-16157.000000" StartY="4998.000000" StartZ="0" Thickness="510.000000" WallId="21" direction="U" />
+        <LineData DirX="-1.000000" DirY="0.000000" EndX="-5366.000000" EndY="-7720.000000" EndZ="0" StartX="-5366.000000" StartY="-8883.000000" StartZ="0" Thickness="132.000000" WallId="22" direction="U" />
+        <LineData DirX="0.000000" DirY="1.000000" EndX="-5498.000000" EndY="-12609.000000" EndZ="0" StartX="-6748.000000" StartY="-12609.000000" StartZ="0" Thickness="468.000000" WallId="23" direction="U" />
+        <LineData DirX="0.000000" DirY="-1.000000" EndX="-7625.000000" EndY="187.000000" EndZ="0" StartX="-5932.000000" StartY="187.000000" StartZ="0" Thickness="102.000000" WallId="24" direction="U" />
+        <LineData DirX="1.000000" DirY="0.000000" EndX="-16073.000000" EndY="798.000000" EndZ="0" StartX="-16073.000000" StartY="1168.000000" StartZ="0" Thickness="426.000000" WallId="25" direction="U" />
+        <LineData DirX="1.000000" DirY="0.000000" EndX="2967.000000" EndY="-7503.000000" EndZ="0" StartX="2967.000000" StartY="-7370.000000" StartZ="0" Thickness="376.000000" WallId="26" direction="U" />
+        <LineData DirX="0.000000" DirY="-1.000000" EndX="-7796.000000" EndY="4359.000000" EndZ="0" StartX="-4418.000000" StartY="4359.000000" StartZ="0" Thickness="507.000000" WallId="27" direction="U" />
+        <LineData DirX="-1.000000" DirY="0.000000" EndX="3486.000000" EndY="-7503.000000" EndZ="0" StartX="3486.000000" StartY="-11303.000000" StartZ="0" Thickness="519.000000" WallId="28" direction="U" />
+        <LineData DirX="1.000000" DirY="0.000000" EndX="-9007.000000" EndY="-12141.000000" EndZ="0" StartX="-9007.000000" StartY="-9014.000000" StartZ="0" Thickness="149.000000" WallId="29" direction="U" />
+        <LineData DirX="0.000000" DirY="1.000000" EndX="-9320.000000" EndY="-12665.000000" EndZ="0" StartX="-13029.000000" StartY="-12665.000000" StartZ="0" Thickness="524.000000" WallId="30" direction="U" />
+        <LineData DirX="1.000000" DirY="0.000000" EndX="-16073.000000" EndY="-2357.000000" EndZ="0" StartX="-16073.000000" StartY="700.000000" StartZ="0" Thickness="499.000000" WallId="31" direction="U" />
+        <LineData DirX="-1.000000" DirY="0.000000" EndX="-12697.000000" EndY="3852.000000" EndZ="0" StartX="-12697.000000" StartY="798.000000" StartZ="0" Thickness="332.000000" WallId="32" direction="U" />
+        <LineData DirX="1.000000" DirY="0.000000" EndX="-5498.000000" EndY="-12021.000000" EndZ="0" StartX="-5498.000000" StartY="-9014.000000" StartZ="0" Thickness="132.000000" WallId="33" direction="U" />
+        <LineData DirX="0.000000" DirY="-1.000000" EndX="-4924.000000" EndY="-12021.000000" EndZ="0" StartX="-2013.000000" StartY="-12021.000000" StartZ="0" Thickness="500.000000" WallId="34" direction="U" />
+        <LineData DirX="0.000000" DirY="1.000000" EndX="-13029.000000" EndY="-2889.000000" EndZ="0" StartX="-16073.000000" StartY="-2889.000000" StartZ="0" Thickness="532.000000" WallId="35" direction="U" />
+        <LineData DirX="0.000000" DirY="1.000000" EndX="-12697.000000" EndY="701.000000" EndZ="0" StartX="-16073.000000" StartY="700.000000" StartZ="0" Thickness="98.000000" WallId="36" direction="U" />
+        <LineData DirX="0.000000" DirY="-1.000000" EndX="-16157.000000" EndY="5512.000000" EndZ="0" StartX="-13553.000000" StartY="5512.000000" StartZ="0" Thickness="514.000000" WallId="37" direction="U" />
+        <LineData DirX="1.000000" DirY="0.000000" EndX="-5835.000000" EndY="-7370.000000" EndZ="0" StartX="-5835.000000" StartY="-4740.000000" StartZ="0" Thickness="110.000000" WallId="38" direction="U" />
+        <LineData DirX="0.000000" DirY="1.000000" EndX="-8080.000000" EndY="-5404.000000" EndZ="0" StartX="-10623.000000" StartY="-5404.000000" StartZ="0" Thickness="391.000000" WallId="39" direction="U" />
+        <LineData DirX="-1.000000" DirY="0.000000" EndX="-10623.000000" EndY="-2523.000000" EndZ="0" StartX="-10623.000000" StartY="-5404.000000" StartZ="0" Thickness="496.000000" WallId="40" direction="U" />
+        <LineData DirX="-1.000000" DirY="0.000000" EndX="-3908.000000" EndY="3852.000000" EndZ="0" StartX="-3908.000000" StartY="2137.000000" StartZ="0" Thickness="359.000000" WallId="41" direction="U" />
+        <LineData DirX="1.000000" DirY="0.000000" EndX="-5932.000000" EndY="-2523.000000" EndZ="0" StartX="-5932.000000" StartY="-745.000000" StartZ="0" Thickness="97.000000" WallId="42" direction="U" />
+        <LineData DirX="1.000000" DirY="0.000000" EndX="-8080.000000" EndY="-7503.000000" EndZ="0" StartX="-8080.000000" StartY="-5013.000000" StartZ="0" Thickness="455.000000" WallId="43" direction="U" />
+        <LineData DirX="-1.000000" DirY="0.000000" EndX="-3908.000000" EndY="-5013.000000" EndZ="0" StartX="-3908.000000" StartY="-7370.000000" StartZ="0" Thickness="259.000000" WallId="44" direction="U" />
+        <LineData DirX="1.000000" DirY="0.000000" EndX="-4267.000000" EndY="-2357.000000" EndZ="0" StartX="-4267.000000" StartY="85.000000" StartZ="0" Thickness="262.000000" WallId="45" direction="U" />
+        <LineData DirX="1.000000" DirY="0.000000" EndX="-8080.000000" EndY="-2357.000000" EndZ="0" StartX="-8080.000000" StartY="187.000000" StartZ="0" Thickness="455.000000" WallId="46" direction="U" />
+        <LineData DirX="0.000000" DirY="-1.000000" EndX="-12511.000000" EndY="-2029.000000" EndZ="0" StartX="-10623.000000" StartY="-2029.000000" StartZ="0" Thickness="494.000000" WallId="47" direction="U" />
+        <LineData DirX="0.000000" DirY="1.000000" EndX="5113.000000" EndY="-2889.000000" EndZ="0" StartX="2790.000000" StartY="-2889.000000" StartZ="0" Thickness="532.000000" WallId="48" direction="U" />
+        <LineData DirX="0.000000" DirY="1.000000" EndX="-7625.000000" EndY="-12609.000000" EndZ="0" StartX="-9007.000000" StartY="-12609.000000" StartZ="0" Thickness="468.000000" WallId="49" direction="U" />
+        <LineData DirX="-1.000000" DirY="0.000000" EndX="-3908.000000" EndY="-2658.000000" EndZ="0" StartX="-3908.000000" StartY="-4650.000000" StartZ="0" Thickness="259.000000" WallId="50" direction="U" />
+        <LineData DirX="0.000000" DirY="1.000000" EndX="-4267.000000" EndY="-2658.000000" EndZ="0" StartX="-5932.000000" StartY="-2658.000000" StartZ="0" Thickness="135.000000" WallId="51" direction="U" />
+        <LineData DirX="0.000000" DirY="-1.000000" EndX="-5835.000000" EndY="-4650.000000" EndZ="0" StartX="-4167.000000" StartY="-4650.000000" StartZ="0" Thickness="90.000000" WallId="52" direction="U" />
+        <LineData DirX="-1.000000" DirY="0.000000" EndX="-1542.000000" EndY="-11057.000000" EndZ="0" StartX="-1542.000000" StartY="-12021.000000" StartZ="0" Thickness="347.000000" WallId="53" direction="U" />
+        <LineData DirX="0.000000" DirY="-1.000000" EndX="-5835.000000" EndY="-7370.000000" EndZ="0" StartX="-3908.000000" StartY="-7370.000000" StartZ="0" Thickness="350.000000" WallId="54" direction="U" />
+        <LineData DirX="0.000000" DirY="-1.000000" EndX="-5498.000000" EndY="187.000000" EndZ="0" StartX="-4005.000000" StartY="187.000000" StartZ="0" Thickness="102.000000" WallId="55" direction="U" />
+        <LineData DirX="-1.000000" DirY="0.000000" EndX="-7083.000000" EndY="-9014.000000" EndZ="0" StartX="-7083.000000" StartY="-10918.000000" StartZ="0" Thickness="240.000000" WallId="56" direction="U" />
+        <LineData DirX="0.000000" DirY="1.000000" EndX="-5366.000000" EndY="-9014.000000" EndZ="0" StartX="-7083.000000" StartY="-9014.000000" StartZ="0" Thickness="131.000000" WallId="57" direction="U" />
+        <LineData DirX="0.000000" DirY="1.000000" EndX="-7796.000000" EndY="-9014.000000" EndZ="0" StartX="-9007.000000" StartY="-9014.000000" StartZ="0" Thickness="131.000000" WallId="58" direction="U" />
+        <LineData DirX="-1.000000" DirY="0.000000" EndX="-6748.000000" EndY="-10918.000000" EndZ="0" StartX="-6748.000000" StartY="-12609.000000" StartZ="0" Thickness="877.000000" WallId="59" direction="U" />
+        <LineData DirX="1.000000" DirY="0.000000" EndX="-13553.000000" EndY="4359.000000" EndZ="0" StartX="-13553.000000" StartY="5512.000000" StartZ="0" Thickness="524.000000" WallId="60" direction="U" />
+        <LineData DirX="-1.000000" DirY="0.000000" EndX="-7083.000000" EndY="-7720.000000" EndZ="0" StartX="-7083.000000" StartY="-9014.000000" StartZ="0" Thickness="713.000000" WallId="61" direction="U" />
+        <LineData DirX="1.000000" DirY="0.000000" EndX="-4418.000000" EndY="3852.000000" EndZ="0" StartX="-4418.000000" StartY="4998.000000" StartZ="0" Thickness="510.000000" WallId="62" direction="U" />
+        <LineData DirX="1.000000" DirY="0.000000" EndX="-2013.000000" EndY="-13022.000000" EndZ="0" StartX="-2013.000000" StartY="-12021.000000" StartZ="0" Thickness="471.000000" WallId="63" direction="U" />
+        <LineData DirX="0.000000" DirY="-1.000000" EndX="-8080.000000" EndY="-7503.000000" EndZ="0" StartX="-7083.000000" StartY="-7503.000000" StartZ="0" Thickness="217.000000" WallId="64" direction="U" />
+        <LineData DirX="1.000000" DirY="0.000000" EndX="-5932.000000" EndY="-745.000000" EndZ="0" StartX="-5932.000000" StartY="187.000000" StartZ="0" Thickness="434.000000" WallId="65" direction="U" />
+        <LineData DirX="-1.000000" DirY="0.000000" EndX="-12511.000000" EndY="-2029.000000" EndZ="0" StartX="-12511.000000" StartY="-2889.000000" StartZ="0" Thickness="518.000000" WallId="66" direction="U" />
+        <LineData DirX="0.000000" DirY="-1.000000" EndX="-13553.000000" EndY="4359.000000" EndZ="0" StartX="-12697.000000" StartY="4359.000000" StartZ="0" Thickness="507.000000" WallId="67" direction="U" />
+        <LineData DirX="0.000000" DirY="-1.000000" EndX="-4267.000000" EndY="-2357.000000" EndZ="0" StartX="-3634.000000" StartY="-2357.000000" StartZ="0" Thickness="301.000000" WallId="68" direction="U" />
+        <LineData DirX="1.000000" DirY="0.000000" EndX="-8318.000000" EndY="3765.000000" EndZ="0" StartX="-8318.000000" StartY="4359.000000" StartZ="0" Thickness="522.000000" WallId="69" direction="U" />
+        <LineData DirX="-1.000000" DirY="0.000000" EndX="-4924.000000" EndY="-12021.000000" EndZ="0" StartX="-4924.000000" StartY="-12609.000000" StartZ="0" Thickness="574.000000" WallId="70" direction="U" />
+        <LineData DirX="0.000000" DirY="1.000000" EndX="-3634.000000" EndY="-5013.000000" EndZ="0" StartX="-4167.000000" StartY="-5013.000000" StartZ="0" Thickness="363.000000" WallId="71" direction="U" />
+    </WallInfo>
+    <FloorInfo Num="1">
+        <FloorShape Num="35">
+            <LineData EndX="-16157.000000" EndY="5512.000000" EndZ="0" StartX="-13029.000000" StartY="5512.000000" StartZ="0" WallId="0" direction="U" />
+            <LineData EndX="-16157.000000" EndY="1168.000000" EndZ="0" StartX="-16157.000000" StartY="5512.000000" StartZ="0" WallId="1" direction="U" />
+            <LineData EndX="-16073.000000" EndY="1168.000000" EndZ="0" StartX="-16157.000000" StartY="1168.000000" StartZ="0" WallId="2" direction="U" />
+            <LineData EndX="-16073.000000" EndY="-2889.000000" EndZ="0" StartX="-16073.000000" StartY="1168.000000" StartZ="0" WallId="3" direction="U" />
+            <LineData EndX="-12511.000000" EndY="-2889.000000" EndZ="0" StartX="-16073.000000" StartY="-2889.000000" StartZ="0" WallId="4" direction="U" />
+            <LineData EndX="-12511.000000" EndY="-2523.000000" EndZ="0" StartX="-12511.000000" StartY="-2889.000000" StartZ="0" WallId="5" direction="U" />
+            <LineData EndX="-11119.000000" EndY="-2523.000000" EndZ="0" StartX="-12511.000000" StartY="-2523.000000" StartZ="0" WallId="6" direction="U" />
+            <LineData EndX="-11119.000000" EndY="-5404.000000" EndZ="0" StartX="-11119.000000" StartY="-2523.000000" StartZ="0" WallId="7" direction="U" />
+            <LineData EndX="-8080.000000" EndY="-5404.000000" EndZ="0" StartX="-11119.000000" StartY="-5404.000000" StartZ="0" WallId="8" direction="U" />
+            <LineData EndX="-8080.000000" EndY="-7248.000000" EndZ="0" StartX="-8080.000000" StartY="-5404.000000" StartZ="0" WallId="9" direction="U" />
+            <LineData EndX="-13029.000000" EndY="-7248.000000" EndZ="0" StartX="-8080.000000" StartY="-7248.000000" StartZ="0" WallId="10" direction="U" />
+            <LineData EndX="-13029.000000" EndY="-12665.000000" EndZ="0" StartX="-13029.000000" StartY="-7248.000000" StartZ="0" WallId="11" direction="U" />
+            <LineData EndX="-9320.000000" EndY="-12665.000000" EndZ="0" StartX="-13029.000000" StartY="-12665.000000" StartZ="0" WallId="12" direction="U" />
+            <LineData EndX="-9320.000000" EndY="-12609.000000" EndZ="0" StartX="-9320.000000" StartY="-12665.000000" StartZ="0" WallId="13" direction="U" />
+            <LineData EndX="-7083.000000" EndY="-12609.000000" EndZ="0" StartX="-9320.000000" StartY="-12609.000000" StartZ="0" WallId="14" direction="U" />
+            <LineData EndX="-4924.000000" EndY="-12609.000000" EndZ="0" StartX="-7083.000000" StartY="-12609.000000" StartZ="0" WallId="15" direction="U" />
+            <LineData EndX="-4924.000000" EndY="-12521.000000" EndZ="0" StartX="-4924.000000" StartY="-12609.000000" StartZ="0" WallId="16" direction="U" />
+            <LineData EndX="-2013.000000" EndY="-12521.000000" EndZ="0" StartX="-4924.000000" StartY="-12521.000000" StartZ="0" WallId="17" direction="U" />
+            <LineData EndX="-2013.000000" EndY="-13022.000000" EndZ="0" StartX="-2013.000000" StartY="-12521.000000" StartZ="0" WallId="18" direction="U" />
+            <LineData EndX="3486.000000" EndY="-13022.000000" EndZ="0" StartX="-2013.000000" StartY="-13022.000000" StartZ="0" WallId="19" direction="U" />
+            <LineData EndX="3486.000000" EndY="-11493.000000" EndZ="0" StartX="3486.000000" StartY="-13022.000000" StartZ="0" WallId="20" direction="U" />
+            <LineData EndX="3486.000000" EndY="-7503.000000" EndZ="0" StartX="3486.000000" StartY="-11493.000000" StartZ="0" WallId="21" direction="U" />
+            <LineData EndX="3343.000000" EndY="-7503.000000" EndZ="0" StartX="3486.000000" StartY="-7503.000000" StartZ="0" WallId="22" direction="U" />
+            <LineData EndX="3343.000000" EndY="-2889.000000" EndZ="0" StartX="3343.000000" StartY="-7503.000000" StartZ="0" WallId="23" direction="U" />
+            <LineData EndX="5113.000000" EndY="-2889.000000" EndZ="0" StartX="3343.000000" StartY="-2889.000000" StartZ="0" WallId="24" direction="U" />
+            <LineData EndX="5113.000000" EndY="2137.000000" EndZ="0" StartX="5113.000000" StartY="-2889.000000" StartZ="0" WallId="25" direction="U" />
+            <LineData EndX="5113.000000" EndY="4998.000000" EndZ="0" StartX="5113.000000" StartY="2137.000000" StartZ="0" WallId="26" direction="U" />
+            <LineData EndX="-4418.000000" EndY="4998.000000" EndZ="0" StartX="5113.000000" StartY="4998.000000" StartZ="0" WallId="27" direction="U" />
+            <LineData EndX="-4418.000000" EndY="4359.000000" EndZ="0" StartX="-4418.000000" StartY="4998.000000" StartZ="0" WallId="28" direction="U" />
+            <LineData EndX="-8318.000000" EndY="4359.000000" EndZ="0" StartX="-4418.000000" StartY="4359.000000" StartZ="0" WallId="29" direction="U" />
+            <LineData EndX="-8318.000000" EndY="4265.000000" EndZ="0" StartX="-8318.000000" StartY="4359.000000" StartZ="0" WallId="30" direction="U" />
+            <LineData EndX="-12697.000000" EndY="4265.000000" EndZ="0" StartX="-8318.000000" StartY="4265.000000" StartZ="0" WallId="31" direction="U" />
+            <LineData EndX="-12697.000000" EndY="4359.000000" EndZ="0" StartX="-12697.000000" StartY="4265.000000" StartZ="0" WallId="32" direction="U" />
+            <LineData EndX="-13029.000000" EndY="4359.000000" EndZ="0" StartX="-12697.000000" StartY="4359.000000" StartZ="0" WallId="33" direction="U" />
+            <LineData EndX="-13029.000000" EndY="5512.000000" EndZ="0" StartX="-13029.000000" StartY="4359.000000" StartZ="0" WallId="34" direction="U" />
+        </FloorShape>
+    </FloorInfo>
+    <DoorInfo Num="0" />
+    <WinInfo Num="0" />
+</root>
